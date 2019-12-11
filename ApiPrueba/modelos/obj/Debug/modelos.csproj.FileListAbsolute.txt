@@ -1,0 +1,6 @@
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\bin\Debug\modelos.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\bin\Debug\modelos.pdb
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\obj\Debug\modelos.csprojAssemblyReference.cache
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\obj\Debug\modelos.csproj.CoreCompileInputs.cache
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\obj\Debug\modelos.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\modelos\obj\Debug\modelos.pdb

@@ -1,0 +1,11 @@
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\repositorio.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\repositorio.pdb
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\componentes.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\modelos.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\componentes.pdb
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\bin\Debug\modelos.pdb
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\obj\Debug\repositorio.csprojAssemblyReference.cache
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\obj\Debug\repositorio.csproj.CoreCompileInputs.cache
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\obj\Debug\repositorio.csproj.CopyComplete
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\obj\Debug\repositorio.dll
+C:\Users\rmartinez\Documents\GitHub\AxityPrueba\ApiPrueba\repositorio\obj\Debug\repositorio.pdb
