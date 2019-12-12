@@ -7,7 +7,7 @@
     <ProjectGuid>{ECF353D4-6408-4E63-A6DD-F84E2A38B38C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>modelos</RootNamespace>
+    <RootNamespace>modelos.prueba</RootNamespace>
     <AssemblyName>modelos</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

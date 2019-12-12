@@ -1,0 +1,32 @@
+﻿@using WebApp.Models
+@model LoginUsers
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <div class="well">
+            @using (Html.BeginForm("Validar", "Home", FormMethod.Post))
+            {
+                <div>
+                    @Html.LabelFor(p => p.Usua)
+                    @Html.TextBoxFor(p => p.Usua, new { @class = "form-control" })
+                    @Html.ValidationMessage("Usua", new { @class = "text-danger" })
+                </div>
+                <div>
+                    @Html.LabelFor(p => p.Pass)
+                    @Html.TextBoxFor(p => p.Pass, new { @class = "form-control" })
+                    @Html.ValidationMessage("Pass", new { @class = "text-danger" })
+                </div>
+                <br />
+                <div style="margin:auto">
+                    <input type="submit" class="btn btn-success" value="Guardar" />
+                </div>
+            }
+        </div>
+    </div>
+    <div class="col-md-4"></div>
+</div>
